@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1543780668 source:c:\users\isaías bueno andrade\desktop\bta\curso i\informática\proyectofinaloriginal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
+1544870516 source:c:\users\isaías bueno andrade\desktop\proyectofinaloriginal\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<string.h>
+
